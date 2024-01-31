@@ -1,4 +1,4 @@
-import database from './img/databases.png'
+import databases from './img/databases.png'
 import computer_lang from './img/computer-lang.png'
 import laptopanimado from './img/laptopanimado.png'
 import mouse from './img/mouse.png'
